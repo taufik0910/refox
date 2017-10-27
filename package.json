@@ -14,5 +14,26 @@
     "lodash": "^4.16.2",
     "vue": "^2.0.1",
     "vue-resource": "^1.0.3"
-  }
+  },
+  "name": "refox",
+  "description": "<p align=\"center\"><img src=\"https://laravel.com/assets/img/components/logo-laravel.svg\"></p>",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "vue": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taufik0910/refox.git"
+  },
+  "author": "muhammad taufik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taufik0910/refox/issues"
+  },
+  "homepage": "https://github.com/taufik0910/refox#readme"
 }
+
